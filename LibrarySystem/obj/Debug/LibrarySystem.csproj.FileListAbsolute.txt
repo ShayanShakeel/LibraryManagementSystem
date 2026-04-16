@@ -1,0 +1,84 @@
+c:\users\hassan hassan\documents\visual studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystemDB.mdf
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystemDB_log.ldf
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Books.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.hello.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Main.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.Cache
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojResolveAssemblyReference.cache
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.UserSettings.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.AdminPage.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.BooksSettings.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.SearchBooks.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.AddNewBook.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.editingbooks.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.User.Requests.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.UserSettings.AddNewUser.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.UserSettings.UserEdittingOptions.resources
+C:\Users\hassan hassan\Documents\Visual Studio 2015\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.user_settings.editingusers.resources
+D:\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\LibrarySystemDB.mdf
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\LibrarySystemDB_log.ldf
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.AddNewBook.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.AdminPage.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.BooksSettings.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.UserSettings.AddNewUser.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.user_settings.editingusers.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.UserSettings.UserEdittingOptions.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Books.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.editingbooks.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.hello.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Main.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.User.Requests.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.SearchBooks.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\Google.Protobuf.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\MySql.Data.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Memory.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\ZstdSharp.dll
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\Google.Protobuf.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\MySql.Data.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Memory.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibraryS.702885DD.Up2Date
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.User.Borrowed.resources
+C:\Users\lenovo\Source\Repos\Library-Management-System12\LibrarySystem\obj\Debug\LibrarySystem.Forms.Admin.user_settings.requestSettings.resources
